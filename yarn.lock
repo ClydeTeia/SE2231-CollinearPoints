@@ -2,7 +2,12 @@
 # yarn lockfile v1
 
 
-p5@^1.9.0:
-  version "1.9.0"
-  resolved "https://registry.yarnpkg.com/p5/-/p5-1.9.0.tgz#04c406ae683449106d514108648035b21aa850fb"
-  integrity sha512-+5/hz0ZokCDf7BMMAeemE7FIo7gFZK7ImL62acHLXZwerGjqj+171bnaAWj4aCFCx6fwysAr2U7/AKuPyPhehA==
+"@types/p5@^1.7.6":
+  version "1.7.6"
+  resolved "https://registry.npmjs.org/@types/p5/-/p5-1.7.6.tgz"
+  integrity sha512-6pLTOo0V3N5jZb5nTwjiv3lPHLK3Z/TjbhQUj8CTWXocUk1Z/f6OHTp3Pcwi1BhWnf5gqKUcyEb1gP0KIJuQgw==
+
+p5@^1.9.1:
+  version "1.9.1"
+  resolved "https://registry.npmjs.org/p5/-/p5-1.9.1.tgz"
+  integrity sha512-TpuCll0KwyY8jyQbY9j4wCt+pA3Qv0egd4MqkrhJ58pBgdj5im5XsKpP/64gepDilJXTk126vWXiNAPeSezNdg==
